@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1.1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1.1/src/main/java/com/tdcare/boot/MaiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1.1/src/main/java/com/tdcare/boot/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1.1/src/main/java/com/tdcare/boot/mainapplication/MaiApplication2.java" afterDir="false" />
+    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="自动修改">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/Controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/Controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665332741778</updated>
-      <workItem from="1665332743507" duration="10570000" />
+      <workItem from="1665332743507" duration="11960000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个相信项目">
       <created>1665334364880</created>
@@ -209,7 +200,42 @@
       <option name="project" value="LOCAL" />
       <updated>1665558046001</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
+      <created>1665558284932</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665558284932</updated>
+    </task>
+    <task id="LOCAL-00010" summary="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
+      <created>1665558293433</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665558293433</updated>
+    </task>
+    <task id="LOCAL-00011" summary="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
+      <created>1665558304647</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665558304647</updated>
+    </task>
+    <task id="LOCAL-00012" summary="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
+      <created>1665558327395</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665558327395</updated>
+    </task>
+    <task id="LOCAL-00013" summary="自动修改">
+      <created>1665558421329</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665558421329</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +257,7 @@
     <MESSAGE value="这是一个新项目" />
     <MESSAGE value="修改了包名" />
     <MESSAGE value="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置" />
+    <MESSAGE value="自动修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="自动修改" />
   </component>
 </project>
