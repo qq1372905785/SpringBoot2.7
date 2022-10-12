@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="这是一个相信项目">
+    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="这是一个新项目">
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/README.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665332741778</updated>
-      <workItem from="1665332743507" duration="4122000" />
+      <workItem from="1665332743507" duration="4969000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个相信项目">
       <created>1665334364880</created>
@@ -113,7 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665334364880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="这是一个新项目">
+      <created>1665505557476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665505557476</updated>
+    </task>
+    <task id="LOCAL-00003" summary="这是一个新项目">
+      <created>1665505741497</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665505741497</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +147,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是一个相信项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是一个相信项目" />
+    <MESSAGE value="这是一个新项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是一个新项目" />
   </component>
 </project>
