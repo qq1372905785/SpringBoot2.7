@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="自动修改">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="修改了相关代码" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665332741778</updated>
-      <workItem from="1665332743507" duration="11960000" />
+      <workItem from="1665332743507" duration="12307000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个相信项目">
       <created>1665334364880</created>
@@ -235,7 +231,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665558421329</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="这个是修改Springboot的相关配置的配置文件，里面写了几个修改配置的示例">
+      <created>1665560539484</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665560539484</updated>
+    </task>
+    <task id="LOCAL-00015" summary="修改了相关代码">
+      <created>1665560721285</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665560721285</updated>
+    </task>
+    <task id="LOCAL-00016" summary="修改了相关代码">
+      <created>1665560733703</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665560733703</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +275,8 @@
     <MESSAGE value="修改了包名" />
     <MESSAGE value="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置" />
     <MESSAGE value="自动修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="自动修改" />
+    <MESSAGE value="这个是修改Springboot的相关配置的配置文件，里面写了几个修改配置的示例" />
+    <MESSAGE value="修改了相关代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了相关代码" />
   </component>
 </project>
