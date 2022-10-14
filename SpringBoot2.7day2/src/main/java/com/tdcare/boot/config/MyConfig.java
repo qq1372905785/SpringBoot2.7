@@ -13,6 +13,7 @@ public class MyConfig {
         return user02;
     }
 //    @Bean(name = "dog") //可以起别名
+    @Bean
     public Dog dog01(){     //方法名对应的就是实例的id
         Dog dog01 = new Dog("xiaomi",7);
         return dog01;
