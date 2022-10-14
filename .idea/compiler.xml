@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SpringBoot2.7day2" />
         <module name="SpringBoot2.7day1.1" />
       </profile>
     </annotationProcessing>
@@ -14,6 +15,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SpringBoot2.7day1" options="" />
       <module name="SpringBoot2.7day1.1" options="-parameters" />
+      <module name="SpringBoot2.7day2" options="-parameters" />
     </option>
   </component>
 </project>

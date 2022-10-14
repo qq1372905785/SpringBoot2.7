@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="修改了相关代码" />
+    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="上传输出目录">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/config/MyConfig.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -54,35 +63,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/Mygit/SpringBoot2.7/SpringBoot2.7day1/src/main/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;ALL&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Mygit/SpringBoot2.7&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;640be1c41a09e8cb41b14bd2e5c3f4eb&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day1\src\main\resources" />
+      <recent name="D:\Mygit\SpringBoot2.7" />
+      <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day2" />
+      <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day2\src\main\resources" />
+      <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day1.1" />
+      <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day1.1\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaiApplication2">
+  <component name="RunManager" selected="Spring Boot.MainApplication (1)">
     <configuration name="MaiApplication2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tdcare.boot.mainapplication.MaiApplication2" />
       <module name="SpringBoot2.7day1.1" />
@@ -96,12 +110,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Springboot2.7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Springboot2.7" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot2.7day1.1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tdcare.boot.MaiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaiApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="SpringBoot2.7day1.1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.tdcare.boot.mainapplication.MaiApplication2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tdcare.boot.mainapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringBoot2.7day2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tdcare.boot.MainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdcare.boot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,9 +171,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MainApplication (1)" />
+        <item itemvalue="Spring Boot.MainApplication" />
         <item itemvalue="Application.MaiApplication2" />
         <item itemvalue="Spring Boot.MaiApplication2" />
-        <item itemvalue="Spring Boot.MainApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +186,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665332741778</updated>
-      <workItem from="1665332743507" duration="12307000" />
+      <workItem from="1665332743507" duration="13244000" />
+      <workItem from="1665666493844" duration="699000" />
+      <workItem from="1665669268005" duration="11743000" />
+      <workItem from="1665744779863" duration="103000" />
+      <workItem from="1665744887108" duration="126000" />
+      <workItem from="1665745032686" duration="171000" />
+      <workItem from="1665745322348" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个相信项目">
       <created>1665334364880</created>
@@ -252,7 +306,119 @@
       <option name="project" value="LOCAL" />
       <updated>1665560733703</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="这个是源配置文件">
+      <created>1665560860138</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665560860138</updated>
+    </task>
+    <task id="LOCAL-00018" summary="这个是修改Springboot的配置文件，里面添加了几个示例">
+      <created>1665561100836</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665561100836</updated>
+    </task>
+    <task id="LOCAL-00019" summary="这个是修改Springboot的配置文件，里面添加了几个示例">
+      <created>1665669423645</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665669423645</updated>
+    </task>
+    <task id="LOCAL-00020" summary="这个是修改Springboot的配置文件，里面添加了几个示例">
+      <created>1665669876494</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665669876494</updated>
+    </task>
+    <task id="LOCAL-00021" summary="这个是修改Springboot的配置文件，里面添加了几个示例">
+      <created>1665669883679</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665669883679</updated>
+    </task>
+    <task id="LOCAL-00022" summary="这个是修改Springboot的配置文件，里面添加了几个示例">
+      <created>1665669898815</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665669898815</updated>
+    </task>
+    <task id="LOCAL-00023" summary="#Springboot主程序类的启动写法和修改Springboot配置的方法">
+      <created>1665670535049</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665670535049</updated>
+    </task>
+    <task id="LOCAL-00024" summary="#Springboot自定义扫描包的几种方式">
+      <created>1665670772550</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665670772550</updated>
+    </task>
+    <task id="LOCAL-00025" summary="修改了项目的pom.xml">
+      <created>1665671181558</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1665671181558</updated>
+    </task>
+    <task id="LOCAL-00026" summary="修改了项目的pom.xml">
+      <created>1665671203126</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665671203126</updated>
+    </task>
+    <task id="LOCAL-00027" summary="修改了项目的pom.xml">
+      <created>1665671228040</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1665671228040</updated>
+    </task>
+    <task id="LOCAL-00028" summary="修改了注释">
+      <created>1665671268269</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1665671268269</updated>
+    </task>
+    <task id="LOCAL-00029" summary="新增自动注入bean的配置文件">
+      <created>1665739433983</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1665739433983</updated>
+    </task>
+    <task id="LOCAL-00030" summary="新增各种包和类用于Configeuration注解和Bean注解实例演示">
+      <created>1665739619024</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1665739619024</updated>
+    </task>
+    <task id="LOCAL-00031" summary="精简了pom.xml依赖">
+      <created>1665739795981</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1665739795981</updated>
+    </task>
+    <task id="LOCAL-00032" summary="上传输出目录">
+      <created>1665745184375</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1665745184375</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +443,16 @@
     <MESSAGE value="自动修改" />
     <MESSAGE value="这个是修改Springboot的相关配置的配置文件，里面写了几个修改配置的示例" />
     <MESSAGE value="修改了相关代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了相关代码" />
+    <MESSAGE value="这个是源配置文件" />
+    <MESSAGE value="这个是修改Springboot的配置文件，里面添加了几个示例" />
+    <MESSAGE value="#Springboot主程序类的启动写法和修改Springboot配置的方法" />
+    <MESSAGE value="#Springboot自定义扫描包的几种方式" />
+    <MESSAGE value="修改了项目的pom.xml" />
+    <MESSAGE value="修改了注释" />
+    <MESSAGE value="新增自动注入bean的配置文件" />
+    <MESSAGE value="新增各种包和类用于Configeuration注解和Bean注解实例演示" />
+    <MESSAGE value="精简了pom.xml依赖" />
+    <MESSAGE value="上传输出目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传输出目录" />
   </component>
 </project>
