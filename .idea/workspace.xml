@@ -4,13 +4,40 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="上传输出目录">
+    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="新建项目的pom.xml文件提交">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/bean/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/bean/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/bean/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/resources/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/bean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/MainApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/bean/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/config/MyConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/src/main/java/com/tdcare/boot/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/src/main/java/com/tdcare/boot/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/src/main/java/com/tdcare/boot/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/src/main/java/com/tdcare/boot/config/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/src/main/java/com/tdcare/boot/mainApplication/MainApplication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/src/main/java/com/tdcare/boot/mainApplication/MainApplication2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/target/classes/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/target/classes/com/tdcare/boot/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/target/classes/com/tdcare/boot/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/target/classes/com/tdcare/boot/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/target/classes/com/tdcare/boot/bean/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/target/classes/com/tdcare/boot/config/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/target/classes/com/tdcare/boot/config/MyConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/target/classes/com/tdcare/boot/mainApplication/MainApplication2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot2/target/classes/com/tdcare/boot/mainApplication/MainApplication2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot2/untitled/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,30 +90,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;ALL&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Mygit/SpringBoot2.7&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;640be1c41a09e8cb41b14bd2e5c3f4eb&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/Mygit/SpringBoot2.7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "6ae8a1767a8c70ba183364445703dab4"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Mygit\SpringBoot2.7" />
@@ -94,6 +121,9 @@
       <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day2\src\main\resources" />
       <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day1.1" />
       <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day1.1\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tdcare.boot.bean" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.MainApplication (1)">
@@ -192,7 +222,13 @@
       <workItem from="1665744779863" duration="103000" />
       <workItem from="1665744887108" duration="126000" />
       <workItem from="1665745032686" duration="171000" />
-      <workItem from="1665745322348" duration="150000" />
+      <workItem from="1665745322348" duration="274000" />
+      <workItem from="1665745841438" duration="128000" />
+      <workItem from="1665745986323" duration="63000" />
+      <workItem from="1665746056376" duration="1080000" />
+      <workItem from="1665747141428" duration="6000" />
+      <workItem from="1665747160819" duration="10136000" />
+      <workItem from="1665817343319" duration="863000" />
     </task>
     <task id="LOCAL-00001" summary="这是一个相信项目">
       <created>1665334364880</created>
@@ -418,7 +454,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665745184375</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="修改了错误代码">
+      <created>1665745505223</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1665745505223</updated>
+    </task>
+    <task id="LOCAL-00034" summary="idea文件自动更新">
+      <created>1665745537282</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1665745537282</updated>
+    </task>
+    <task id="LOCAL-00035" summary="新建项目的pom.xml文件提交">
+      <created>1665747509099</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1665747509099</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,6 +510,9 @@
     <MESSAGE value="新增各种包和类用于Configeuration注解和Bean注解实例演示" />
     <MESSAGE value="精简了pom.xml依赖" />
     <MESSAGE value="上传输出目录" />
-    <option name="LAST_COMMIT_MESSAGE" value="上传输出目录" />
+    <MESSAGE value="修改了错误代码" />
+    <MESSAGE value="idea文件自动更新" />
+    <MESSAGE value="新建项目的pom.xml文件提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建项目的pom.xml文件提交" />
   </component>
 </project>
