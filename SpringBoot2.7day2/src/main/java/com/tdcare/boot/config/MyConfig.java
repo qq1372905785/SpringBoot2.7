@@ -1,9 +1,12 @@
 package com.tdcare.boot.config;
 
+import ch.qos.logback.classic.boolex.OnErrorEvaluator;
 import com.tdcare.boot.bean.Dog;
 import com.tdcare.boot.bean.User;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Import;
+
 /**
  * 通过@bean标注到方法上面来给容器注册组件，默认是单实例
  * 单实例就是无论你从容器中获取多少次组件，都只会有一个组件实例
@@ -16,6 +19,7 @@ import org.springframework.context.annotation.Configuration;
  * 类组件之间是否有组件依赖，如果有就是true，如果没有就用false
  * **/
 @Configuration(proxyBeanMethods = true)
+@Import({User.class,OnErrorEvaluator.class})       //把组件类导入到容器中,这里是随便选择两个类导入
 public class MyConfig {
     /**
      *

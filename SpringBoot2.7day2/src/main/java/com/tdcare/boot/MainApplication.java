@@ -1,5 +1,6 @@
 package com.tdcare.boot;
 
+import ch.qos.logback.classic.boolex.OnErrorEvaluator;
 import com.tdcare.boot.bean.Dog;
 import com.tdcare.boot.bean.User;
 import com.tdcare.boot.config.MyConfig;
@@ -30,17 +31,22 @@ public class MainApplication {
         MyConfig myConfig = ioc.getBean(MyConfig.class);            //拿到容器中的配置类对象
         System.out.println("myConfig打印输出是:"+myConfig);          //输出看看myConfig是不是代理对象
         /***
-         * 可以通过getBeanNamesForType()拿到容器中对应类型的组件名称然后打印 getBeanNamesForType()返回的是字符串数组
-         * 也可以通过getBeanDefinitionNames()拿到所有在容器中的组件名称然后打印出来
+         * 可以通过getBeanNamesForType(TypeClass.class)拿到容器中对应类型的组件名称然后打印 getBeanNamesForType()返回的是字符串数组
          * */
-        String[] names = ioc.getBeanNamesForType(User.class);
+        String[] names = ioc.getBeanNamesForType(User.class);   //获取注册到容器的组件类
         for (String name : names){
             System.out.println(name);
         }
-        System.out.println("______________");
+        OnErrorEvaluator or = ioc.getBean(OnErrorEvaluator.class);  //获取注册到容器中的组件
+        System.out.println(or);
+        /**
+         *
+         * 也可以通过getBeanDefinitionNames()拿到所有在容器中的组件名称然后打印出来
+         * **/
+       /* System.out.println("______________");
         String[] DefinitionNames = ioc.getBeanDefinitionNames();
         for (String name : DefinitionNames){
             System.out.println(name);
-        }
+        }*/
     }
 }
