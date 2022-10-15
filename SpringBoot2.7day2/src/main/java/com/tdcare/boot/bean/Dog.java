@@ -1,17 +1,15 @@
 package com.tdcare.boot.bean;
 
-import javax.naming.Name;
-
 public class Dog {
     private String name;
     private Integer age;
 
-    public void setName(String name) {
+    public Dog(String name, Integer age) {
         this.name = name;
+        this.age = age;
     }
 
-    public void setAge(Integer age) {
-        this.age = age;
+    public Dog() {
     }
 
     public String getName() {
@@ -22,11 +20,11 @@ public class Dog {
         return age;
     }
 
-    public Dog(String name, Integer age) {
+    public void setName(String name) {
         this.name = name;
-        this.age = age;
     }
 
-    public Dog() {
+    public void setAge(Integer age) {
+        this.age = age;
     }
 }

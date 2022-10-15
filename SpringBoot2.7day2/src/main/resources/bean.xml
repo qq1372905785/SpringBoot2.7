@@ -3,13 +3,12 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
     <bean id="user01" class="com.tdcare.boot.bean.User">
-        <property name="userName" value="ljh" ></property>
-        <property name="age" value="22" ></property>
+        <property name="userName" value="ljh"></property>
+        <property name="age" value="22"></property>
         <property name="dog" ref="dog01"></property>
     </bean>
     <bean id="dog01" class="com.tdcare.boot.bean.Dog">
         <property name="name" value="xiaomi"></property>
         <property name="age" value="7"></property>
     </bean>
-
 </beans>

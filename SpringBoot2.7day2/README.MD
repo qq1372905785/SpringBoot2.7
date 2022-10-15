@@ -1,3 +1,1 @@
-#Springboot@Configration的用法
-#Springboot@Bean的用法
-
+#Springboot@Configuration注解和@bean注解使用方式
