@@ -14,12 +14,13 @@ public class MainApplication {
         //获取到ioc容器对象
         ConfigurableApplicationContext ioc = SpringApplication.run(MainApplication.class,args);
         /**
-         * 通过容器的getBean(object,Object.class)方法获取容器中对应的组件类和实例
+         * 通过容器的getBean(object,Object.class) or getBean(Object.class)方法获取容器中对应的组件类和实例
          * getBean方法的参数分别是实例的名称(id)和实例的类型,也只拿实例类型作为方法的参数
          *
          * **/
         User user01 = ioc.getBean("user01",User.class);
         User user02 = ioc.getBean("user01",User.class);
+//        User user03 = ioc.getBean(User.class);
         System.out.println("用户名是:"+user01.getUserName());
         System.out.println("______________");
         /**
