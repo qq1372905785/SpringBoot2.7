@@ -1,5 +1,8 @@
 package com.tdcare.boot.bean;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Dog {
     private String name;
     private Integer age;
