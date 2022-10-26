@@ -9,15 +9,18 @@
         <module name="SpringBoot2.7day2" />
         <module name="SpringBoot2.7day1.1" />
         <module name="SpringBoot2.7day2.1" />
+        <module name="SpringBoot2.7day1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SpringBoot2" target="1.8" />
       <module name="Springboot2.7day2" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="SpringBoot2.7day1" options="" />
+      <module name="SpringBoot2" options="-parameters" />
+      <module name="SpringBoot2.7day1" options="-parameters" />
       <module name="SpringBoot2.7day1.1" options="-parameters" />
       <module name="SpringBoot2.7day2" options="-parameters" />
       <module name="SpringBoot2.7day2.1" options="-parameters" />
