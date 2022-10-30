@@ -1,6 +1,6 @@
 #yaml多种数据形式写法展示
 #属性的写法
-country：china
+country: china
 
 #对象和对象属性的写法
 user:
@@ -8,17 +8,17 @@ user:
   age: 19
 
 #多层级数据描述
- a:
-   b:
-     c:
-       d: 10
+a:
+  b:
+    c:
+      d: 10
 #描述多个值，类似于数组形式，比如描述多个爱好,多个用户
 likes:
   - game
   - muisc
   - ball
   - sleep
-likes: [sleep,ball,game]
+likes01: [sleep,ball,game]
 user01: [{name: ljh,age: 18},]
 users:
   -
