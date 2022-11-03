@@ -32,5 +32,6 @@ users:
     name: zhangsan
     age: 19
     address: jpan
-
+server:
+  port: 8080
 
