@@ -24,6 +24,8 @@ public class HelloController {
     private String useage01;
     @Value("${users01[1].age}")
     private String usersage01;
+    @Value("${server.port}")
+    private Integer serverPort;
 //    @ResponseBody       //因为返回的是字符串，所以用@ResponseBody
     @RequestMapping("/hello")
    /* @GetMapping*/
@@ -34,6 +36,7 @@ public class HelloController {
         System.out.println("like01====>"+like01);
         System.out.println("user.age====>"+useage01);
         System.out.println("user01.age====>"+usersage01);
+        System.out.println("server.Port====>"+serverPort);
         return "hello,SpringBoot...runing....";
     }
 
