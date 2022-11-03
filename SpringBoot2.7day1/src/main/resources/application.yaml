@@ -4,7 +4,7 @@ country: china1
 
 #对象和对象属性的写法
 user:
-  name: ljh
+  names: ljh
   age: 19
 
 #多层级数据描述
@@ -18,8 +18,11 @@ likes:
   - muisc
   - ball
   - sleep
+
 likes01: [sleep,ball,game]
-user01: [{name: ljh,age: 18},]
+
+users01: [{name: ljh,age: 18},{name: xiaomi,age: 20}]
+
 users:
   -
     name: ljh
@@ -29,4 +32,5 @@ users:
     name: zhangsan
     age: 19
     address: jpan
+
 
