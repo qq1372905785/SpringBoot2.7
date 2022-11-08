@@ -4,37 +4,20 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="添加新内容">
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/Controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/src/main/java/com/tdcare/boot/MainApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/src/main/java/com/tdcare/boot/bean/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/src/main/java/com/tdcare/boot/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/src/main/java/com/tdcare/boot/config/MyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/src/main/java/com/tdcare/boot/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/target/classes/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/target/classes/com/tdcare/boot/MainApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/target/classes/com/tdcare/boot/bean/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/target/classes/com/tdcare/boot/bean/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/target/classes/com/tdcare/boot/config/MyConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringBoot2.7dayxxxxxxxxxx/target/classes/com/tdcare/boot/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="ecc71d0a-df0e-4e10-b6fe-c322eae4a085" name="Changes" comment="添加了读取配置文件的属性实例代码">
+      <change afterPath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/java/com/tdcare/boot/bean/MyDataSource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/java/com/tdcare/boot/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/java/com/tdcare/boot/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/resources/application/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/Controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/Controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2.1/target/classes/com/tdcare/boot/config/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2.1/target/classes/com/tdcare/boot/config/MyConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/src/main/java/com/tdcare/boot/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/MainApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/bean/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/bean/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/config/MyConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/config/MyConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day2/target/classes/com/tdcare/boot/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/Controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/Controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot2.7day1/target/classes/com/tdcare/boot/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot2.7day1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,31 +70,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;ALL&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Mygit/SpringBoot2.7/SpringBoot2.7day2.1/src/main/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.31724137&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;8d83f478f7c182dddd2747c31643c821&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/Mygit/SpringBoot2.7/SpringBoot2.7day1/src/main/resources/applicaiton.yaml",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.31724137",
+    "settings.editor.selected.configurable": "spring.boot",
+    "spring.configuration.checksum": "8d83f478f7c182dddd2747c31643c821"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day2.1\src\main\resources" />
@@ -121,6 +104,9 @@
       <recent name="D:\Mygit\SpringBoot2.7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day1\src\main\resources" />
+      <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day1\src\main\resources\application" />
+      <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day1\src\main\resources\" />
       <recent name="D:\Mygit\SpringBoot2.7" />
       <recent name="D:\Mygit\SpringBoot2.7\SpringBoot2.7day2" />
     </key>
@@ -130,9 +116,9 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean" />
       <command value="mvn install" />
       <command value="mvn compile" />
+      <command value="mvn clean" />
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.MainApplication">
@@ -142,6 +128,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tdcare.boot.mainapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tdcare.boot.MainApplication" />
+      <module name="SpringBoot2.7day1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tdcare.boot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,19 +164,6 @@
     <configuration name="MaiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SpringBoot2.7day1.1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.tdcare.boot.MaiApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaiApplication2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="SpringBoot2.7day1.1" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tdcare.boot.mainapplication.MaiApplication2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tdcare.boot.mainapplication.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -224,10 +210,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="Application.MainApplication" />
         <item itemvalue="Spring Boot.MainApplication (1)" />
         <item itemvalue="Spring Boot.MainApplication (2)" />
         <item itemvalue="Application.MaiApplication2" />
-        <item itemvalue="Spring Boot.MaiApplication2" />
       </list>
     </recent_temporary>
   </component>
@@ -261,70 +247,9 @@
       <workItem from="1666712313700" duration="107000" />
       <workItem from="1666712589763" duration="2241000" />
       <workItem from="1666798802927" duration="2855000" />
-      <workItem from="1666803909151" duration="1847000" />
-    </task>
-    <task id="LOCAL-00007" summary="修改了包名">
-      <created>1665554461501</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1665554461501</updated>
-    </task>
-    <task id="LOCAL-00008" summary="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
-      <created>1665558046001</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1665558046001</updated>
-    </task>
-    <task id="LOCAL-00009" summary="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
-      <created>1665558284932</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1665558284932</updated>
-    </task>
-    <task id="LOCAL-00010" summary="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
-      <created>1665558293433</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1665558293433</updated>
-    </task>
-    <task id="LOCAL-00011" summary="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
-      <created>1665558304647</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1665558304647</updated>
-    </task>
-    <task id="LOCAL-00012" summary="这个是Springboot的配置文件，可以在里面修改Springboot的相关配置">
-      <created>1665558327395</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1665558327395</updated>
-    </task>
-    <task id="LOCAL-00013" summary="自动修改">
-      <created>1665558421329</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1665558421329</updated>
-    </task>
-    <task id="LOCAL-00014" summary="这个是修改Springboot的相关配置的配置文件，里面写了几个修改配置的示例">
-      <created>1665560539484</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1665560539484</updated>
-    </task>
-    <task id="LOCAL-00015" summary="修改了相关代码">
-      <created>1665560721285</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1665560721285</updated>
+      <workItem from="1666803909151" duration="2104000" />
+      <workItem from="1666806043632" duration="21000" />
+      <workItem from="1666975243373" duration="20398000" />
     </task>
     <task id="LOCAL-00016" summary="修改了相关代码">
       <created>1665560733703</created>
@@ -606,7 +531,70 @@
       <option name="project" value="LOCAL" />
       <updated>1666805686163</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="添加新内容">
+      <created>1666805871688</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1666805871688</updated>
+    </task>
+    <task id="LOCAL-00057" summary="添加yaml多种数据形式写法">
+      <created>1667146188593</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1667146188593</updated>
+    </task>
+    <task id="LOCAL-00058" summary="添加yaml多种数据形式写法">
+      <created>1667146575654</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1667146575654</updated>
+    </task>
+    <task id="LOCAL-00059" summary="添加yaml多种数据形式写法">
+      <created>1667146711957</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1667146711957</updated>
+    </task>
+    <task id="LOCAL-00060" summary="修改了配置文件名">
+      <created>1667149713947</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1667149713947</updated>
+    </task>
+    <task id="LOCAL-00061" summary="添加了读取配置文件的属性实例代码">
+      <created>1667487042193</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1667487042193</updated>
+    </task>
+    <task id="LOCAL-00062" summary="添加了读取配置文件的属性实例代码">
+      <created>1667487316360</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1667487316360</updated>
+    </task>
+    <task id="LOCAL-00063" summary="添加了读取配置文件的属性实例代码">
+      <created>1667487334748</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1667487334748</updated>
+    </task>
+    <task id="LOCAL-00064" summary="添加了读取配置文件的属性实例代码">
+      <created>1667487349627</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1667487349627</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,9 +612,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="这个是修改Springboot的配置文件，里面添加了几个示例" />
-    <MESSAGE value="#Springboot主程序类的启动写法和修改Springboot配置的方法" />
-    <MESSAGE value="#Springboot自定义扫描包的几种方式" />
     <MESSAGE value="修改了项目的pom.xml" />
     <MESSAGE value="修改了注释" />
     <MESSAGE value="新增自动注入bean的配置文件" />
@@ -649,7 +634,10 @@
     <MESSAGE value="新增getBean的参数写法演示" />
     <MESSAGE value="新增修改配置文件不生效的解决方法" />
     <MESSAGE value="添加新内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加新内容" />
+    <MESSAGE value="添加yaml多种数据形式写法" />
+    <MESSAGE value="修改了配置文件名" />
+    <MESSAGE value="添加了读取配置文件的属性实例代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了读取配置文件的属性实例代码" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

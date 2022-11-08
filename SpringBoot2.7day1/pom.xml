@@ -6,7 +6,6 @@
 
     <groupId>com.tdcare</groupId>
     <artifactId>SpringBoot2.7day1</artifactId>
-    <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -36,6 +35,7 @@
                 <directory>src/main/resources</directory>
                 <includes>
                     <include>**/*.*</include>
+                    <include>**/*.yaml</include>
                 </includes>
             </resource>
         </resources>
