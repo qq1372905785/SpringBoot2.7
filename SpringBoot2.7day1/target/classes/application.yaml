@@ -1,0 +1,50 @@
+#yaml多种数据形式写法展示
+#属性的写法
+country: china1
+
+#对象和对象属性的写法
+user:
+  names: ljh
+  age: 19
+
+#多层级数据描述
+a:
+  b:
+    c:
+      d: 10
+#描述多个值，类似于数组形式，比如描述多个爱好,多个用户
+likes:
+  - game
+  - muisc
+  - ball
+  - sleep
+
+likes01: [sleep,ball,game]
+
+users01: [{name: ljh,age: 18},{name: xiaomi,age: 20}]
+
+users:
+  -
+    name: ljh
+    age: 18
+    address: usa
+  -
+    name: zhangsan
+    age: 19
+    address: jpan
+server:
+  port: 8080
+
+# yaml引用变量
+baseDir: C:\ProgramData
+tempDir: ${baseDir}\temp
+
+# \t换位符的用法
+showDir: "${baseDir}\temp"
+
+datasource:
+  drive: com.jdbc.mysql
+  username: root
+  password: root
+  url: jdbc:mysql://location:springboot_db
+
