@@ -35,3 +35,19 @@ users:
 server:
   port: 8080
 
+# yaml引用变量
+baseDir: C:\ProgramData
+tempDir: ${baseDir}\temp
+
+# \t换位符的用法
+showDir: "${baseDir}\temp"
+# 1.创建一个类用来封装datasourcee
+# 2.把类放到Spring中进行管理,也就是定义成Spring管理的bean @compont 砍bo ne te
+# 3.在封装的bean中去指定Spring去读取指定的数据(datasource) @ConfigurationProperties(prefix = "datasource")
+# prefix是前缀的意思，也就是你要读取的数据的前缀，也就是在bean中通过@ConfigurationProperties绑定配置信息到封装类中
+datasource:
+  drive: com.jdbc.mysql
+  username: root
+  password: root
+  url: jdbc:mysql://location:springboot_db
+
